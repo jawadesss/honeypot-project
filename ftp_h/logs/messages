@@ -4,3 +4,5 @@ Dec 16 13:47:29 4151142bc886 pure-ftpd: (?@?) [WARNING] Unknown run-time option
 Dec 16 13:47:30 4151142bc886 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
 Dec 16 13:49:03 0b97f201dc7f pure-ftpd: (?@?) [WARNING] Unknown run-time option
 Dec 16 13:49:04 0b97f201dc7f rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="8" x-info="https://www.rsyslog.com"] start
+Dec 16 15:44:53 1ad566d539fa pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 16 15:44:54 1ad566d539fa rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start

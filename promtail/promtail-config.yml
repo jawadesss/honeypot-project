@@ -1,0 +1,50 @@
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yaml
+
+clients:
+  - url: http://100.89.209.81:3100/loki/api/v1/push
+
+scrape_configs:
+  # 🔐 SSH Honeypot (Cowrie)
+  - job_name: cowrie
+    static_configs:
+      - targets: [localhost]
+        labels:
+          job: cowrie
+          service: ssh
+          host: vm1
+          __path__: /logs/cowrie/*  # All files
+
+  # 🌐 HTTP Honeypot
+  - job_name: web
+    static_configs:
+      - targets: [localhost]
+        labels:
+          job: web
+          service: http
+          host: vm1
+          __path__: /logs/web/*  # All files
+
+  # 📁 FTP Honeypot
+  - job_name: ftp
+    static_configs:
+      - targets: [localhost]
+        labels:
+          job: ftp
+          service: ftp
+          host: vm1
+          __path__: /logs/ftp/*  # All files
+
+  # 🗄 MySQL Honeypot
+  - job_name: mysql
+    static_configs:
+      - targets: [localhost]
+        labels:
+          job: mysql
+          service: mysql
+          host: vm1
+          __path__: /logs/mysql/*  # All files

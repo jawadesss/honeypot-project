@@ -1,0 +1,67 @@
+filebeat.inputs:
+
+# ---------------- SSH (Cowrie) ----------------
+- type: log
+  enabled: true
+  paths:
+    - /logs/cowrie/cowrie.json
+  json.keys_under_root: true
+  json.add_error_key: true
+  tags: ["honeypot", "ssh", "cowrie"]
+  fields:
+    service: ssh
+    honeypot: cowrie
+  fields_under_root: true
+
+# ---------------- HTTP Honeypot ----------------
+- type: log
+  enabled: true
+  paths:
+    - /logs/http/honeypot.log
+  tags: ["honeypot", "http"]
+  fields:
+    service: http
+    honeypot: http
+  fields_under_root: true
+  processors:
+    - dissect:
+        tokenizer: "%{timestamp} | IP=%{src_ip} | Country=%{country} | Private=%{private} | Method=%{http_method} | Path=%{url_path} | Attack=%{attack_type} | Severity=%{severity} | Reason=%{reason} | Query=%{query} | Body=%{body} | UA=%{user_agent} | Hash=%{hash}"
+        field: "message"
+        target_prefix: ""
+
+# ---------------- FTP Honeypot ----------------
+- type: log
+  enabled: true
+  paths:
+    - /logs/ftp/pure-ftpd/*.log
+  tags: ["honeypot", "ftp"]
+  fields:
+    service: ftp
+    honeypot: ftp
+  fields_under_root: true
+
+# ---------------- MySQL Honeypot ----------------
+- type: log
+  enabled: true
+  paths:
+    - /logs/mysql/mysql.log
+  tags: ["honeypot", "mysql"]
+  fields:
+    service: mysql
+    honeypot: mysql
+  fields_under_root: true
+
+# ---------------- Global Processors ----------------
+processors:
+- add_host_metadata: {}
+- add_docker_metadata: {}
+
+# ---------------- Output ----------------
+output.elasticsearch:
+  hosts: ["https://100.89.209.81:9200"]
+  username: "elastic"
+  password: "7mTd+qWGAvt1yosAgCIX"
+  ssl.verification_mode: "none"
+
+setup.template.enabled: true
+setup.ilm.enabled: false

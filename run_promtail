@@ -1,0 +1,5 @@
+promtail -config.file=/home/cstc/promtail-config/promtail-config.yml -log.level=debug&
+echo $! > /tmp/promtail.pid
+
+
+

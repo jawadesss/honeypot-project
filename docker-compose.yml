@@ -28,7 +28,7 @@ services:
       - "2222:2222"
     volumes:
       - ./cowrie/data:/cowrie/cowrie-git/var/log/cowrie
-      - ./cowrie/etc:/cowrie/etc
+      - ./cowrie/etc:/cowrie/etc/
     restart: unless-stopped
 
 
@@ -57,6 +57,12 @@ services:
       - ./ftp_h/data:/home/ftpusers/user123
       - ./ftp_h/logs:/var/log
     restart: unless-stopped
+
+
+
+
+
+
 
 
 

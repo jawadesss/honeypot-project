@@ -7,3 +7,5 @@ permission denied while trying to connect to the docker API at unix:///var/run/d
 permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
 Error response from daemon: No such container: mysql_honeypot
 Error response from daemon: No such container: mysql_honeypot
+2025-12-16T16:56:52.103938910Z 2025-12-16 16:56:52 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-16T17:02:49.845670819Z 2025-12-16 17:02:49 mysql-honeypotd[1]: Got signal 15, shutting down

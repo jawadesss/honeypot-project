@@ -14,3 +14,15 @@ Dec 16 15:44:53 1ad566d539fa pure-ftpd: (?@?) [WARNING] Unknown run-time option
 Dec 16 15:44:54 1ad566d539fa rsyslogd: imklog: cannot open kernel log (/proc/kmsg): Operation not permitted.
 Dec 16 15:44:54 1ad566d539fa rsyslogd: activation of module imklog failed [v8.1901.0 try https://www.rsyslog.com/e/2145 ]
 Dec 16 15:44:54 1ad566d539fa rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 16 16:54:03 51ba79bc9f4b pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 16 16:54:04 51ba79bc9f4b rsyslogd: imklog: cannot open kernel log (/proc/kmsg): Operation not permitted.
+Dec 16 16:54:04 51ba79bc9f4b rsyslogd: activation of module imklog failed [v8.1901.0 try https://www.rsyslog.com/e/2145 ]
+Dec 16 16:54:04 51ba79bc9f4b rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 16 16:57:44 8f0c34de04f6 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 16 16:57:45 8f0c34de04f6 rsyslogd: imklog: cannot open kernel log (/proc/kmsg): Operation not permitted.
+Dec 16 16:57:45 8f0c34de04f6 rsyslogd: activation of module imklog failed [v8.1901.0 try https://www.rsyslog.com/e/2145 ]
+Dec 16 16:57:45 8f0c34de04f6 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 16 17:04:23 bc1ed02d6b37 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 16 17:04:24 bc1ed02d6b37 rsyslogd: imklog: cannot open kernel log (/proc/kmsg): Operation not permitted.
+Dec 16 17:04:24 bc1ed02d6b37 rsyslogd: activation of module imklog failed [v8.1901.0 try https://www.rsyslog.com/e/2145 ]
+Dec 16 17:04:24 bc1ed02d6b37 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start

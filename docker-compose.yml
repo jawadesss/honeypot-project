@@ -27,7 +27,7 @@ services:
     ports:
       - "2222:2222"
     volumes:
-      - ./cowrie/data:/cowrie/var
+      - ./cowrie/data:/cowrie/cowrie-git/var/log/cowrie
       - ./cowrie/etc:/cowrie/etc
     restart: unless-stopped
 

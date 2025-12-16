@@ -1,0 +1,62 @@
+services:
+  # HTTP honeypot
+  http_honeypot:
+    build: ./http_honeypot
+    container_name: http_honeypot
+    ports:
+      - "80:80"
+    volumes:
+      - ./http_honeypot/data:/data
+      - ./http_honeypot/assets:/assets
+    restart: unless-stopped
+
+  # MySQL honeypot
+  mysql_honeypot:
+    image: wildwildangel/mysql-honeypotd
+    container_name: mysql_honeypot
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./sql-h/log:/data
+    restart: unless-stopped
+
+  # SSH honeypot (Cowrie)
+  cowrie:
+    image: cowrie/cowrie
+    container_name: cowrie
+    ports:
+      - "2222:2222"
+    volumes:
+      - ./cowrie/data:/cowrie/var
+      - ./cowrie/etc:/cowrie/etc
+    restart: unless-stopped
+
+
+
+  # FTP honeypot (Pure-FTPd)
+  ftp_honeypot:
+    image: stilliard/pure-ftpd:latest
+    container_name: ftp_honeypot
+    ports:
+      - "21:21"
+      - "30000-30009:30000-30009"
+    environment:
+      PUBLICHOST: "192.168.1.8"
+      FTP_USER_NAME: "user123"
+      FTP_USER_PASS: "user123"
+      FTP_USER_HOME: "/home/ftpusers/user123"
+      ADDED_FLAGS: >-
+        --verboselog
+        --displaydotfiles
+        --tls=0
+        --dontresolve
+        --noanonymous
+        --nochmod
+        --logfile=/var/log/pureftpd.log
+    volumes:
+      - ./ftp_h/data:/home/ftpusers/user123
+      - ./ftp_h/logs:/var/log
+    restart: unless-stopped
+
+
+

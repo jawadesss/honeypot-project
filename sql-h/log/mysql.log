@@ -1,0 +1,4 @@
+2025-12-16T13:51:12.949406139Z 2025-12-16 13:51:12 mysql-honeypotd[1]: New connection from 192.168.1.7:52124 [192.168.1.7] to 172.18.0.5:3306
+2025-12-16T13:51:12.950508480Z 2025-12-16 13:51:12 mysql-honeypotd[1]: Access denied for user 'root' from 192.168.1.7:52124 to 172.18.0.5:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-16T13:51:12.961356429Z 2025-12-16 13:51:12 mysql-honeypotd[1]: Closing connection for 192.168.1.7:52124
+2025-12-16T13:51:40.751056369Z 2025-12-16 13:51:40 mysql-honeypotd[1]: Got signal 15, shutting down

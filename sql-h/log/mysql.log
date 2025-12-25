@@ -1,21 +1,2 @@
-2025-12-16T13:51:12.949406139Z 2025-12-16 13:51:12 mysql-honeypotd[1]: New connection from 192.168.1.7:52124 [192.168.1.7] to 172.18.0.5:3306
-2025-12-16T13:51:12.950508480Z 2025-12-16 13:51:12 mysql-honeypotd[1]: Access denied for user 'root' from 192.168.1.7:52124 to 172.18.0.5:3306 (using password: YES; authentication plugin: mysql_native_password)
-2025-12-16T13:51:12.961356429Z 2025-12-16 13:51:12 mysql-honeypotd[1]: Closing connection for 192.168.1.7:52124
-2025-12-16T13:51:40.751056369Z 2025-12-16 13:51:40 mysql-honeypotd[1]: Got signal 15, shutting down
-stdbuf: failed to run command ‘docker’: No such file or directory
-permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
-permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
-Error response from daemon: No such container: mysql_honeypot
-Error response from daemon: No such container: mysql_honeypot
-2025-12-16T16:56:52.103938910Z 2025-12-16 16:56:52 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T17:02:49.845670819Z 2025-12-16 17:02:49 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T18:50:40.808994909Z 2025-12-16 18:50:40 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T20:15:42.553943123Z 2025-12-16 20:15:42 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T21:17:47.446957950Z 2025-12-16 21:17:47 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T21:39:33.666821987Z 2025-12-16 21:39:33 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T22:01:34.675005890Z 2025-12-16 22:01:34 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T22:22:33.850850364Z 2025-12-16 22:22:33 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T22:39:37.768078565Z 2025-12-16 22:39:37 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T23:01:48.748039349Z 2025-12-16 23:01:48 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T23:40:08.327538524Z 2025-12-16 23:40:08 mysql-honeypotd[1]: Got signal 15, shutting down
-2025-12-16T23:40:58.662289038Z 2025-12-16 23:40:58 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-24T18:36:48.363771781Z 2025-12-24 18:36:48 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-24T20:46:10.392715563Z 2025-12-24 20:46:10 mysql-honeypotd[1]: Got signal 15, shutting down

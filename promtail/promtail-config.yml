@@ -17,11 +17,7 @@ scrape_configs:
           job: cowrie
           service: ssh
           host: vm1
-          __path__: /logs/cowrie/*.json  # Only JSON files for Cowrie
-
-  # 🌐 HT
-
-
+          __path__: /home/cstc/honeypot-project/cowrie/data/cowrie.json 
 
   # 🌐 HTTP Honeypot - EXACT FILENAME ONLY
   - job_name: web
@@ -31,7 +27,7 @@ scrape_configs:
           job: web
           service: http
           host: vm1
-          __path__: /home/cstc/honeypot-project/http_honeypot/data/honeypot.log  # EXACT FILE
+          __path__: /home/cstc/honeypot-project/http_honeypot/data/honeypot.log
 
 
   # 📁 FTP Honeypot
@@ -42,7 +38,8 @@ scrape_configs:
           job: ftp
           service: ftp
           host: vm1
-          __path__: /logs/ftp/*.log  # Only .log files
+          __path__: /home/cstc/honeypot-project/ftp_h/logs/pure-ftpd/pureftpd.log
+
 
   # 🗄 MySQL Honeypot
   - job_name: mysql
@@ -52,4 +49,4 @@ scrape_configs:
           job: mysql
           service: mysql
           host: vm1
-          __path__: /logs/mysql/*.log  # Only .log files
+          __path__: /home/cstc/honeypot-project/sql-h/log/mysql.log

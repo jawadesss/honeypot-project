@@ -2,3 +2,97 @@ Dec 24 18:21:06 745171845c4e pure-ftpd: (?@?) [WARNING] Unknown run-time option
 Dec 24 18:21:07 745171845c4e rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
 Dec 24 18:37:35 5e9b550beadb pure-ftpd: (?@?) [WARNING] Unknown run-time option
 Dec 24 18:37:36 5e9b550beadb rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 25 19:02:00 e57adc3a12e7 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 25 19:02:01 e57adc3a12e7 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 25 19:42:31 e57adc3a12e7 pure-ftpd: (?@172.18.0.1) [INFO] New connection from 172.18.0.1
+Dec 25 19:42:56 e57adc3a12e7 pure-ftpd: (?@172.18.0.1) [WARNING] Authentication failed for user [cstc]
+Dec 25 19:43:01 e57adc3a12e7 pure-ftpd: (?@172.18.0.1) [INFO] Logout.
+Dec 25 20:24:56 691c0ee7441f pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 25 20:24:56 691c0ee7441f rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 25 20:35:03 e5e84d888359 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 25 20:35:04 e5e84d888359 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 25 20:44:16 b079c0ba8fe0 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 25 20:44:17 b079c0ba8fe0 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 27 21:51:16 8017abe85bd3 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 27 21:51:16 8017abe85bd3 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 27 23:58:18 aca898f08d8b pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 27 23:58:19 aca898f08d8b rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 28 14:07:33 aca898f08d8b pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 28 14:07:34 aca898f08d8b rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 28 14:18:06 aca898f08d8b pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 28 14:18:07 aca898f08d8b rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 28 19:51:51 aca898f08d8b pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 28 19:51:51 aca898f08d8b rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 28 20:12:27 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 28 20:12:31 aca898f08d8b pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [user123]
+Dec 28 20:12:31 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 28 20:13:20 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 28 20:13:24 aca898f08d8b pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [user123]
+Dec 28 20:13:24 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 28 20:13:26 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 28 20:13:26 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] user123 is now logged in
+Dec 28 20:13:26 aca898f08d8b pure-ftpd: (user123@192.168.1.11) [INFO] Logout.
+Dec 28 20:14:23 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 28 20:14:32 aca898f08d8b pure-ftpd: (?@192.168.1.11) [INFO] user123 is now logged in
+Dec 28 20:16:51 aca898f08d8b pure-ftpd: (user123@192.168.1.11) [INFO] Logout.
+Dec 29 21:37:30 150a05a653d0 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 29 21:37:31 150a05a653d0 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 29 22:45:13 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:13 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:13 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:18 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:18 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:22 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [anonymous]
+Dec 29 22:45:22 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:22 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:25 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [anonymous]
+Dec 29 22:45:25 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:25 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:29 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [anonymous]
+Dec 29 22:45:29 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:29 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:33 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [anonymous]
+Dec 29 22:45:33 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:33 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:38 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:38 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [anonymous]
+Dec 29 22:45:38 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:42 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [anonymous]
+Dec 29 22:45:42 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:42 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:47 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:47 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:52 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:53 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [ftp]
+Dec 29 22:45:53 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:45:57 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:45:57 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [ftp]
+Dec 29 22:45:57 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:01 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [ftp]
+Dec 29 22:46:01 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:01 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:05 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [ftp]
+Dec 29 22:46:05 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:05 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:09 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [ftp]
+Dec 29 22:46:09 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:09 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:12 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [ftp]
+Dec 29 22:46:12 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:12 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:17 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:17 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:21 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [admin]
+Dec 29 22:46:21 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:21 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:26 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [admin]
+Dec 29 22:46:26 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 29 22:46:26 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] New connection from 192.168.1.11
+Dec 29 22:46:29 150a05a653d0 pure-ftpd: (?@192.168.1.11) [WARNING] Authentication failed for user [admin]
+Dec 29 22:46:29 150a05a653d0 pure-ftpd: (?@192.168.1.11) [INFO] Logout.
+Dec 30 11:27:38 30109d490143 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 30 11:27:39 30109d490143 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="9" x-info="https://www.rsyslog.com"] start
+Dec 30 15:33:12 0e15494f0ee6 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 30 15:33:13 0e15494f0ee6 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="8" x-info="https://www.rsyslog.com"] start
+Dec 30 19:36:45 0e15494f0ee6 pure-ftpd: (?@?) [WARNING] Unknown run-time option
+Dec 30 19:36:46 0e15494f0ee6 rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="8" x-info="https://www.rsyslog.com"] start

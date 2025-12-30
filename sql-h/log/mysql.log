@@ -1,2 +1,1102 @@
 2025-12-24T18:36:48.363771781Z 2025-12-24 18:36:48 mysql-honeypotd[1]: Got signal 15, shutting down
 2025-12-24T20:46:10.392715563Z 2025-12-24 20:46:10 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-25T19:48:59.731702682Z 2025-12-25 19:48:59 mysql-honeypotd[1]: New connection from 172.18.0.1:45890 [HoneypotVM.local] to 172.18.0.3:3306
+2025-12-25T19:48:59.733018347Z 2025-12-25 19:48:59 mysql-honeypotd[1]: Access denied for user 'root' from 172.18.0.1:45890 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-25T19:48:59.743449255Z 2025-12-25 19:48:59 mysql-honeypotd[1]: Closing connection for 172.18.0.1:45890
+2025-12-25T20:20:50.093742965Z 2025-12-25 20:20:50 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-25T20:33:35.517955211Z 2025-12-25 20:33:35 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-25T20:43:09.774092725Z 2025-12-25 20:43:09 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-25T23:34:43.872471488Z 2025-12-25 23:34:43 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-27T23:43:05.083437745Z 2025-12-27 23:43:05 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-28T01:01:30.355863914Z 2025-12-28 01:01:30 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-28T14:08:06.469450545Z 2025-12-28 14:08:06 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-28T14:43:37.799203102Z 2025-12-28 14:43:37 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-28T20:16:55.110741224Z 2025-12-28 20:16:55 mysql-honeypotd[1]: New connection from 192.168.1.11:42962 [192.168.1.11] to 172.18.0.2:3306
+2025-12-28T20:16:55.116068651Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Access denied for user 'root' from 192.168.1.11:42962 to 172.18.0.2:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-28T20:16:55.128004975Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42962
+2025-12-28T20:16:55.234903292Z 2025-12-28 20:16:55 mysql-honeypotd[1]: New connection from 192.168.1.11:42976 [192.168.1.11] to 172.18.0.2:3306
+2025-12-28T20:16:55.239965869Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:42976 to 172.18.0.2:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-28T20:16:55.251699094Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42976
+2025-12-28T20:16:55.356433600Z 2025-12-28 20:16:55 mysql-honeypotd[1]: New connection from 192.168.1.11:42992 [192.168.1.11] to 172.18.0.2:3306
+2025-12-28T20:16:55.361008605Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Access denied for user 'test' from 192.168.1.11:42992 to 172.18.0.2:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-28T20:16:55.373020416Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42992
+2025-12-28T20:16:55.479259404Z 2025-12-28 20:16:55 mysql-honeypotd[1]: New connection from 192.168.1.11:43006 [192.168.1.11] to 172.18.0.2:3306
+2025-12-28T20:16:55.484164365Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:43006 to 172.18.0.2:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-28T20:16:55.496615062Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Closing connection for 192.168.1.11:43006
+2025-12-28T20:16:55.604093129Z 2025-12-28 20:16:55 mysql-honeypotd[1]: New connection from 192.168.1.11:43012 [192.168.1.11] to 172.18.0.2:3306
+2025-12-28T20:16:55.608965415Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:43012 to 172.18.0.2:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-28T20:16:55.620986180Z 2025-12-28 20:16:55 mysql-honeypotd[1]: Closing connection for 192.168.1.11:43012
+2025-12-29T00:10:57.639942074Z 2025-12-29 00:10:57 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-29T22:38:08.587788181Z 2025-12-29 22:38:08 mysql-honeypotd[1]: New connection from 192.168.1.11:42204 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:09.105661843Z 2025-12-29 22:38:09 mysql-honeypotd[1]: New connection from 192.168.1.11:42220 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:09.105704309Z 2025-12-29 22:38:09 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42204
+2025-12-29T22:38:09.106487147Z 2025-12-29 22:38:09 mysql-honeypotd[1]: Access denied for user 'root' from 192.168.1.11:42220 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:09.117480987Z 2025-12-29 22:38:09 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42220
+2025-12-29T22:38:14.130777711Z 2025-12-29 22:38:14 mysql-honeypotd[1]: New connection from 192.168.1.11:42224 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:14.483171593Z 2025-12-29 22:38:14 mysql-honeypotd[1]: New connection from 192.168.1.11:42234 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:14.483241972Z 2025-12-29 22:38:14 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42224
+2025-12-29T22:38:14.484416864Z 2025-12-29 22:38:14 mysql-honeypotd[1]: Access denied for user 'root' from 192.168.1.11:42234 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:14.495543727Z 2025-12-29 22:38:14 mysql-honeypotd[1]: Closing connection for 192.168.1.11:42234
+2025-12-29T22:38:18.933416261Z 2025-12-29 22:38:18 mysql-honeypotd[1]: New connection from 192.168.1.11:49088 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:21.391996380Z 2025-12-29 22:38:21 mysql-honeypotd[1]: New connection from 192.168.1.11:49098 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:21.392371383Z 2025-12-29 22:38:21 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49088
+2025-12-29T22:38:25.590416531Z 2025-12-29 22:38:25 mysql-honeypotd[1]: New connection from 192.168.1.11:49114 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:25.590459519Z 2025-12-29 22:38:25 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49098
+2025-12-29T22:38:25.590464423Z 2025-12-29 22:38:25 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49114
+2025-12-29T22:38:29.788192951Z 2025-12-29 22:38:29 mysql-honeypotd[1]: New connection from 192.168.1.11:41102 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:32.007237929Z 2025-12-29 22:38:32 mysql-honeypotd[1]: New connection from 192.168.1.11:41106 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:32.007313267Z 2025-12-29 22:38:32 mysql-honeypotd[1]: Closing connection for 192.168.1.11:41102
+2025-12-29T22:38:32.008577911Z 2025-12-29 22:38:32 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:41106 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:32.019223872Z 2025-12-29 22:38:32 mysql-honeypotd[1]: Closing connection for 192.168.1.11:41106
+2025-12-29T22:38:33.270296302Z 2025-12-29 22:38:33 mysql-honeypotd[1]: New connection from 192.168.1.11:41122 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:33.271539031Z 2025-12-29 22:38:33 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:41122 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:33.282063786Z 2025-12-29 22:38:33 mysql-honeypotd[1]: Closing connection for 192.168.1.11:41122
+2025-12-29T22:38:35.010867014Z 2025-12-29 22:38:35 mysql-honeypotd[1]: New connection from 192.168.1.11:41330 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:35.011958362Z 2025-12-29 22:38:35 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:41330 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:35.022498735Z 2025-12-29 22:38:35 mysql-honeypotd[1]: Closing connection for 192.168.1.11:41330
+2025-12-29T22:38:36.700805521Z 2025-12-29 22:38:36 mysql-honeypotd[1]: New connection from 192.168.1.11:41336 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:36.702288049Z 2025-12-29 22:38:36 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:41336 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:36.712686034Z 2025-12-29 22:38:36 mysql-honeypotd[1]: Closing connection for 192.168.1.11:41336
+2025-12-29T22:38:39.517289012Z 2025-12-29 22:38:39 mysql-honeypotd[1]: New connection from 192.168.1.11:41346 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:39.518227235Z 2025-12-29 22:38:39 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:41346 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:39.528654755Z 2025-12-29 22:38:39 mysql-honeypotd[1]: Closing connection for 192.168.1.11:41346
+2025-12-29T22:38:44.229226006Z 2025-12-29 22:38:44 mysql-honeypotd[1]: New connection from 192.168.1.11:54996 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:44.230528994Z 2025-12-29 22:38:44 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:54996 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:44.241162067Z 2025-12-29 22:38:44 mysql-honeypotd[1]: Closing connection for 192.168.1.11:54996
+2025-12-29T22:38:46.173813184Z 2025-12-29 22:38:46 mysql-honeypotd[1]: New connection from 192.168.1.11:55012 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:46.174770657Z 2025-12-29 22:38:46 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:55012 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:46.185080668Z 2025-12-29 22:38:46 mysql-honeypotd[1]: Closing connection for 192.168.1.11:55012
+2025-12-29T22:38:47.421965997Z 2025-12-29 22:38:47 mysql-honeypotd[1]: New connection from 192.168.1.11:55020 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:47.423101718Z 2025-12-29 22:38:47 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:55020 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:47.433508586Z 2025-12-29 22:38:47 mysql-honeypotd[1]: Closing connection for 192.168.1.11:55020
+2025-12-29T22:38:48.754832501Z 2025-12-29 22:38:48 mysql-honeypotd[1]: New connection from 192.168.1.11:55032 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:48.755984838Z 2025-12-29 22:38:48 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:55032 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:48.766577116Z 2025-12-29 22:38:48 mysql-honeypotd[1]: Closing connection for 192.168.1.11:55032
+2025-12-29T22:38:50.678971490Z 2025-12-29 22:38:50 mysql-honeypotd[1]: New connection from 192.168.1.11:55034 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:50.680021817Z 2025-12-29 22:38:50 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:55034 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:50.690606953Z 2025-12-29 22:38:50 mysql-honeypotd[1]: Closing connection for 192.168.1.11:55034
+2025-12-29T22:38:53.240567625Z 2025-12-29 22:38:53 mysql-honeypotd[1]: New connection from 192.168.1.11:55048 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:53.241442465Z 2025-12-29 22:38:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 192.168.1.11:55048 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:53.251987563Z 2025-12-29 22:38:53 mysql-honeypotd[1]: Closing connection for 192.168.1.11:55048
+2025-12-29T22:38:57.905258148Z 2025-12-29 22:38:57 mysql-honeypotd[1]: New connection from 192.168.1.11:39950 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:38:57.906788161Z 2025-12-29 22:38:57 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:39950 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:38:57.917366745Z 2025-12-29 22:38:57 mysql-honeypotd[1]: Closing connection for 192.168.1.11:39950
+2025-12-29T22:39:00.076993010Z 2025-12-29 22:39:00 mysql-honeypotd[1]: New connection from 192.168.1.11:39966 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:00.077987940Z 2025-12-29 22:39:00 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:39966 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:00.088725264Z 2025-12-29 22:39:00 mysql-honeypotd[1]: Closing connection for 192.168.1.11:39966
+2025-12-29T22:39:00.825959827Z 2025-12-29 22:39:00 mysql-honeypotd[1]: New connection from 192.168.1.11:39976 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:00.827101226Z 2025-12-29 22:39:00 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:39976 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:00.837964999Z 2025-12-29 22:39:00 mysql-honeypotd[1]: Closing connection for 192.168.1.11:39976
+2025-12-29T22:39:01.844475069Z 2025-12-29 22:39:01 mysql-honeypotd[1]: New connection from 192.168.1.11:39982 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:01.845609746Z 2025-12-29 22:39:01 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:39982 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:01.856438633Z 2025-12-29 22:39:01 mysql-honeypotd[1]: Closing connection for 192.168.1.11:39982
+2025-12-29T22:39:03.004646858Z 2025-12-29 22:39:03 mysql-honeypotd[1]: New connection from 192.168.1.11:39998 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:03.005824955Z 2025-12-29 22:39:03 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:39998 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:03.016221317Z 2025-12-29 22:39:03 mysql-honeypotd[1]: Closing connection for 192.168.1.11:39998
+2025-12-29T22:39:04.504270406Z 2025-12-29 22:39:04 mysql-honeypotd[1]: New connection from 192.168.1.11:46348 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:04.505280720Z 2025-12-29 22:39:04 mysql-honeypotd[1]: Access denied for user 'user' from 192.168.1.11:46348 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:04.516026414Z 2025-12-29 22:39:04 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46348
+2025-12-29T22:39:08.701178905Z 2025-12-29 22:39:08 mysql-honeypotd[1]: New connection from 192.168.1.11:46352 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:08.702154569Z 2025-12-29 22:39:08 mysql-honeypotd[1]: Access denied for user 'test' from 192.168.1.11:46352 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:08.712755161Z 2025-12-29 22:39:08 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46352
+2025-12-29T22:39:10.344922613Z 2025-12-29 22:39:10 mysql-honeypotd[1]: New connection from 192.168.1.11:46368 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:10.346201523Z 2025-12-29 22:39:10 mysql-honeypotd[1]: Access denied for user 'test' from 192.168.1.11:46368 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:10.356706737Z 2025-12-29 22:39:10 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46368
+2025-12-29T22:39:12.082258801Z 2025-12-29 22:39:12 mysql-honeypotd[1]: New connection from 192.168.1.11:46384 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:12.083289268Z 2025-12-29 22:39:12 mysql-honeypotd[1]: Access denied for user 'test' from 192.168.1.11:46384 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:12.093579135Z 2025-12-29 22:39:12 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46384
+2025-12-29T22:39:13.317090309Z 2025-12-29 22:39:13 mysql-honeypotd[1]: New connection from 192.168.1.11:46390 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:13.318330438Z 2025-12-29 22:39:13 mysql-honeypotd[1]: Access denied for user 'test' from 192.168.1.11:46390 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:13.329216000Z 2025-12-29 22:39:13 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46390
+2025-12-29T22:39:16.085965739Z 2025-12-29 22:39:16 mysql-honeypotd[1]: New connection from 192.168.1.11:60922 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:16.086941414Z 2025-12-29 22:39:16 mysql-honeypotd[1]: Access denied for user 'test' from 192.168.1.11:60922 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:16.098011647Z 2025-12-29 22:39:16 mysql-honeypotd[1]: Closing connection for 192.168.1.11:60922
+2025-12-29T22:39:20.170796045Z 2025-12-29 22:39:20 mysql-honeypotd[1]: New connection from 192.168.1.11:60926 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:20.176133876Z 2025-12-29 22:39:20 mysql-honeypotd[1]: Closing connection for 192.168.1.11:60926
+2025-12-29T22:39:34.336913993Z 2025-12-29 22:39:34 mysql-honeypotd[1]: New connection from 192.168.1.11:49810 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:36.432941058Z 2025-12-29 22:39:36 mysql-honeypotd[1]: New connection from 192.168.1.11:49816 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:36.433104798Z 2025-12-29 22:39:36 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:49810 connecting to 172.18.0.3:3306
+2025-12-29T22:39:41.437585542Z 2025-12-29 22:39:41 mysql-honeypotd[1]: New connection from 192.168.1.11:49814 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:41.437767034Z 2025-12-29 22:39:41 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:49816 connecting to 172.18.0.3:3306
+2025-12-29T22:39:41.438343843Z 2025-12-29 22:39:41 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49810
+2025-12-29T22:39:43.021196666Z 2025-12-29 22:39:43 mysql-honeypotd[1]: New connection from 192.168.1.11:49812 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:43.021278293Z 2025-12-29 22:39:43 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:49814 connecting to 172.18.0.3:3306
+2025-12-29T22:39:43.021820458Z 2025-12-29 22:39:43 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49816
+2025-12-29T22:39:48.027326247Z 2025-12-29 22:39:48 mysql-honeypotd[1]: New connection from 192.168.1.11:58760 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:48.027369699Z 2025-12-29 22:39:48 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:49812 connecting to 172.18.0.3:3306
+2025-12-29T22:39:48.027376631Z 2025-12-29 22:39:48 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49814
+2025-12-29T22:39:48.888457132Z 2025-12-29 22:39:48 mysql-honeypotd[1]: New connection from 192.168.1.11:58762 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:48.888492764Z 2025-12-29 22:39:48 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:58760 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:48.888499459Z 2025-12-29 22:39:48 mysql-honeypotd[1]: Closing connection for 192.168.1.11:49812
+2025-12-29T22:39:52.325388510Z 2025-12-29 22:39:52 mysql-honeypotd[1]: New connection from 192.168.1.11:58772 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:52.325986766Z 2025-12-29 22:39:52 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:58762 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:39:52.325994364Z 2025-12-29 22:39:52 mysql-honeypotd[1]: Closing connection for 192.168.1.11:58760
+2025-12-29T22:39:56.318601844Z 2025-12-29 22:39:56 mysql-honeypotd[1]: New connection from 192.168.1.11:36984 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:39:56.318734526Z 2025-12-29 22:39:56 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:58772 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-29T22:39:56.319056284Z 2025-12-29 22:39:56 mysql-honeypotd[1]: Closing connection for 192.168.1.11:58762
+2025-12-29T22:40:01.323462544Z 2025-12-29 22:40:01 mysql-honeypotd[1]: New connection from 192.168.1.11:46924 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:01.323734801Z 2025-12-29 22:40:01 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:36984 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:01.323920653Z 2025-12-29 22:40:01 mysql-honeypotd[1]: Closing connection for 192.168.1.11:58772
+2025-12-29T22:40:02.974804310Z 2025-12-29 22:40:02 mysql-honeypotd[1]: New connection from 192.168.1.11:46926 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:02.975708399Z 2025-12-29 22:40:02 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:46924 connecting to 172.18.0.3:3306
+2025-12-29T22:40:02.975733807Z 2025-12-29 22:40:02 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36984
+2025-12-29T22:40:07.979592329Z 2025-12-29 22:40:07 mysql-honeypotd[1]: New connection from 192.168.1.11:46936 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:07.979838121Z 2025-12-29 22:40:07 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:46926 connecting to 172.18.0.3:3306
+2025-12-29T22:40:07.980293799Z 2025-12-29 22:40:07 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46924
+2025-12-29T22:40:10.245414755Z 2025-12-29 22:40:10 mysql-honeypotd[1]: New connection from 192.168.1.11:46944 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:10.245687585Z 2025-12-29 22:40:10 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:46936 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:10.245694947Z 2025-12-29 22:40:10 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46926
+2025-12-29T22:40:15.249933879Z 2025-12-29 22:40:15 mysql-honeypotd[1]: New connection from 192.168.1.11:36328 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:15.250030690Z 2025-12-29 22:40:15 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:46944 connecting to 172.18.0.3:3306
+2025-12-29T22:40:15.250419933Z 2025-12-29 22:40:15 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46936
+2025-12-29T22:40:17.212826915Z 2025-12-29 22:40:17 mysql-honeypotd[1]: New connection from 192.168.1.11:36340 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:17.213374272Z 2025-12-29 22:40:17 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:36328 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:17.213391038Z 2025-12-29 22:40:17 mysql-honeypotd[1]: Closing connection for 192.168.1.11:46944
+2025-12-29T22:40:22.215729553Z 2025-12-29 22:40:22 mysql-honeypotd[1]: New connection from 192.168.1.11:36342 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:22.215988768Z 2025-12-29 22:40:22 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:36340 connecting to 172.18.0.3:3306
+2025-12-29T22:40:22.216371960Z 2025-12-29 22:40:22 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36328
+2025-12-29T22:40:22.978041040Z 2025-12-29 22:40:22 mysql-honeypotd[1]: New connection from 192.168.1.11:51336 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:22.979006976Z 2025-12-29 22:40:22 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:36342 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:22.979050346Z 2025-12-29 22:40:22 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36340
+2025-12-29T22:40:27.982881934Z 2025-12-29 22:40:27 mysql-honeypotd[1]: New connection from 192.168.1.11:51342 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:27.983310176Z 2025-12-29 22:40:27 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:51336 connecting to 172.18.0.3:3306
+2025-12-29T22:40:27.983328278Z 2025-12-29 22:40:27 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36342
+2025-12-29T22:40:30.009984283Z 2025-12-29 22:40:30 mysql-honeypotd[1]: New connection from 192.168.1.11:35544 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:30.010262326Z 2025-12-29 22:40:30 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:51342 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:30.010691147Z 2025-12-29 22:40:30 mysql-honeypotd[1]: Closing connection for 192.168.1.11:51336
+2025-12-29T22:40:35.015772101Z 2025-12-29 22:40:35 mysql-honeypotd[1]: New connection from 192.168.1.11:35552 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:35.015904272Z 2025-12-29 22:40:35 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:35544 connecting to 172.18.0.3:3306
+2025-12-29T22:40:35.016193290Z 2025-12-29 22:40:35 mysql-honeypotd[1]: Closing connection for 192.168.1.11:51342
+2025-12-29T22:40:37.080069580Z 2025-12-29 22:40:37 mysql-honeypotd[1]: New connection from 192.168.1.11:35556 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:37.081134616Z 2025-12-29 22:40:37 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:35552 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:37.081202199Z 2025-12-29 22:40:37 mysql-honeypotd[1]: Closing connection for 192.168.1.11:35544
+2025-12-29T22:40:39.901202561Z 2025-12-29 22:40:39 mysql-honeypotd[1]: New connection from 192.168.1.11:35558 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:39.901332990Z 2025-12-29 22:40:39 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:35556 connecting to 172.18.0.3:3306
+2025-12-29T22:40:39.901653282Z 2025-12-29 22:40:39 mysql-honeypotd[1]: Closing connection for 192.168.1.11:35552
+2025-12-29T22:40:44.906453396Z 2025-12-29 22:40:44 mysql-honeypotd[1]: New connection from 192.168.1.11:36526 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:44.906656832Z 2025-12-29 22:40:44 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:35558 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:44.906783008Z 2025-12-29 22:40:44 mysql-honeypotd[1]: Closing connection for 192.168.1.11:35556
+2025-12-29T22:40:45.676491194Z 2025-12-29 22:40:45 mysql-honeypotd[1]: New connection from 192.168.1.11:36530 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:45.676674584Z 2025-12-29 22:40:45 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:36526 connecting to 172.18.0.3:3306
+2025-12-29T22:40:45.676922610Z 2025-12-29 22:40:45 mysql-honeypotd[1]: Closing connection for 192.168.1.11:35558
+2025-12-29T22:40:50.681247713Z 2025-12-29 22:40:50 mysql-honeypotd[1]: New connection from 192.168.1.11:36542 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:50.681445095Z 2025-12-29 22:40:50 mysql-honeypotd[1]: Access denied for user 'jawad' from 192.168.1.11:36530 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:40:50.681773191Z 2025-12-29 22:40:50 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36526
+2025-12-29T22:40:52.742212144Z 2025-12-29 22:40:52 mysql-honeypotd[1]: New connection from 192.168.1.11:52816 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:52.742362304Z 2025-12-29 22:40:52 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:36542 connecting to 172.18.0.3:3306
+2025-12-29T22:40:52.742690536Z 2025-12-29 22:40:52 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36530
+2025-12-29T22:40:57.747050346Z 2025-12-29 22:40:57 mysql-honeypotd[1]: New connection from 192.168.1.11:52828 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:57.747431729Z 2025-12-29 22:40:57 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:52816 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-29T22:40:57.747475784Z 2025-12-29 22:40:57 mysql-honeypotd[1]: Closing connection for 192.168.1.11:36542
+2025-12-29T22:40:58.449234798Z 2025-12-29 22:40:58 mysql-honeypotd[1]: New connection from 192.168.1.11:52838 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:40:58.449339462Z 2025-12-29 22:40:58 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:52828 connecting to 172.18.0.3:3306
+2025-12-29T22:40:58.449779377Z 2025-12-29 22:40:58 mysql-honeypotd[1]: Closing connection for 192.168.1.11:52816
+2025-12-29T22:41:03.453490305Z 2025-12-29 22:41:03 mysql-honeypotd[1]: New connection from 192.168.1.11:60086 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:41:03.453524599Z 2025-12-29 22:41:03 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:52838 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:41:03.453753633Z 2025-12-29 22:41:03 mysql-honeypotd[1]: Closing connection for 192.168.1.11:52828
+2025-12-29T22:41:05.587002422Z 2025-12-29 22:41:05 mysql-honeypotd[1]: New connection from 192.168.1.11:60096 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:41:05.587162049Z 2025-12-29 22:41:05 mysql-honeypotd[1]: Packets are out of order or invalid from 192.168.1.11:60086 connecting to 172.18.0.3:3306
+2025-12-29T22:41:05.587358751Z 2025-12-29 22:41:05 mysql-honeypotd[1]: Closing connection for 192.168.1.11:52838
+2025-12-29T22:41:10.591712629Z 2025-12-29 22:41:10 mysql-honeypotd[1]: New connection from 192.168.1.11:60098 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:41:10.592247713Z 2025-12-29 22:41:10 mysql-honeypotd[1]: Access denied for user 'admin' from 192.168.1.11:60096 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-29T22:41:10.592461100Z 2025-12-29 22:41:10 mysql-honeypotd[1]: Closing connection for 192.168.1.11:60086
+2025-12-29T22:41:12.814377894Z 2025-12-29 22:41:12 mysql-honeypotd[1]: New connection from 192.168.1.11:34834 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:41:12.814450847Z 2025-12-29 22:41:12 mysql-honeypotd[1]: Closing connection for 192.168.1.11:60098
+2025-12-29T22:41:12.814459796Z 2025-12-29 22:41:12 mysql-honeypotd[1]: Closing connection for 192.168.1.11:60096
+2025-12-29T22:41:17.817700148Z 2025-12-29 22:41:17 mysql-honeypotd[1]: New connection from 192.168.1.11:34836 [192.168.1.11] to 172.18.0.3:3306
+2025-12-29T22:41:17.817930709Z 2025-12-29 22:41:17 mysql-honeypotd[1]: Closing connection for 192.168.1.11:34834
+2025-12-29T22:41:17.817975052Z 2025-12-29 22:41:17 mysql-honeypotd[1]: Closing connection for 192.168.1.11:34836
+2025-12-29T22:56:02.623464801Z 2025-12-29 22:56:02 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-30T11:30:22.590229754Z 2025-12-30 11:30:22 mysql-honeypotd[1]: New connection from 100.99.178.56:57116 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:22.592188503Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:57116 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:22.602511949Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Closing connection for 100.99.178.56:57116
+2025-12-30T11:30:22.612048215Z 2025-12-30 11:30:22 mysql-honeypotd[1]: New connection from 100.99.178.56:57118 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:22.613556411Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:57118 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:22.623884499Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Closing connection for 100.99.178.56:57118
+2025-12-30T11:30:22.633666792Z 2025-12-30 11:30:22 mysql-honeypotd[1]: New connection from 100.99.178.56:57132 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:22.635342005Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:57132 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:22.645754239Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Closing connection for 100.99.178.56:57132
+2025-12-30T11:30:22.654580724Z 2025-12-30 11:30:22 mysql-honeypotd[1]: New connection from 100.99.178.56:57134 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:22.655993431Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:57134 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:22.666427414Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Closing connection for 100.99.178.56:57134
+2025-12-30T11:30:22.675593201Z 2025-12-30 11:30:22 mysql-honeypotd[1]: New connection from 100.99.178.56:57142 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:22.677589646Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:57142 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:22.688034488Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Closing connection for 100.99.178.56:57142
+2025-12-30T11:30:22.697296228Z 2025-12-30 11:30:22 mysql-honeypotd[1]: New connection from 100.99.178.56:57156 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:22.698973175Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:57156 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:22.709236529Z 2025-12-30 11:30:22 mysql-honeypotd[1]: Closing connection for 100.99.178.56:57156
+2025-12-30T11:30:25.723165440Z 2025-12-30 11:30:25 mysql-honeypotd[1]: New connection from 100.99.178.56:54144 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:25.725501251Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:54144 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:25.735703801Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54144
+2025-12-30T11:30:25.745485808Z 2025-12-30 11:30:25 mysql-honeypotd[1]: New connection from 100.99.178.56:54158 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:25.747651105Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:54158 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:25.758025127Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54158
+2025-12-30T11:30:25.767154618Z 2025-12-30 11:30:25 mysql-honeypotd[1]: New connection from 100.99.178.56:54168 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:25.768720859Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:54168 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:25.779140486Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54168
+2025-12-30T11:30:25.788645427Z 2025-12-30 11:30:25 mysql-honeypotd[1]: New connection from 100.99.178.56:54182 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:25.790683037Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:54182 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:25.800990677Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54182
+2025-12-30T11:30:25.810103929Z 2025-12-30 11:30:25 mysql-honeypotd[1]: New connection from 100.99.178.56:54196 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:25.811572403Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:54196 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:25.821958752Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54196
+2025-12-30T11:30:25.832131615Z 2025-12-30 11:30:25 mysql-honeypotd[1]: New connection from 100.99.178.56:54198 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:25.833998059Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:54198 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:25.844442200Z 2025-12-30 11:30:25 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54198
+2025-12-30T11:30:27.628393535Z 2025-12-30 11:30:27 mysql-honeypotd[1]: New connection from 100.99.178.56:54202 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:27.628677775Z 2025-12-30 11:30:27 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54202
+2025-12-30T11:30:28.856632775Z 2025-12-30 11:30:28 mysql-honeypotd[1]: New connection from 100.99.178.56:54218 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:28.857984308Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:54218 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:28.868281398Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54218
+2025-12-30T11:30:28.877868759Z 2025-12-30 11:30:28 mysql-honeypotd[1]: New connection from 100.99.178.56:54226 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:28.879425490Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:54226 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:28.890002122Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54226
+2025-12-30T11:30:28.899667709Z 2025-12-30 11:30:28 mysql-honeypotd[1]: New connection from 100.99.178.56:54234 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:28.901336383Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:54234 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:28.911892155Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54234
+2025-12-30T11:30:28.922016762Z 2025-12-30 11:30:28 mysql-honeypotd[1]: New connection from 100.99.178.56:54242 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:28.923592564Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:54242 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:28.934082122Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54242
+2025-12-30T11:30:28.942562221Z 2025-12-30 11:30:28 mysql-honeypotd[1]: New connection from 100.99.178.56:54246 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:28.944672720Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:54246 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:28.955138263Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54246
+2025-12-30T11:30:28.964103999Z 2025-12-30 11:30:28 mysql-honeypotd[1]: New connection from 100.99.178.56:54256 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:28.966032699Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:54256 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:28.976446886Z 2025-12-30 11:30:28 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54256
+2025-12-30T11:30:30.638508979Z 2025-12-30 11:30:30 mysql-honeypotd[1]: New connection from 100.99.178.56:54270 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:30.639927191Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:54270 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:30.650484652Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54270
+2025-12-30T11:30:30.659713983Z 2025-12-30 11:30:30 mysql-honeypotd[1]: New connection from 100.99.178.56:54282 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:30.662177971Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:54282 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:30.672595644Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54282
+2025-12-30T11:30:30.682731612Z 2025-12-30 11:30:30 mysql-honeypotd[1]: New connection from 100.99.178.56:54292 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:30.684211602Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:54292 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:30.694709640Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54292
+2025-12-30T11:30:30.704062775Z 2025-12-30 11:30:30 mysql-honeypotd[1]: New connection from 100.99.178.56:54304 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:30.705936033Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:54304 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:30.716134784Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54304
+2025-12-30T11:30:30.724746247Z 2025-12-30 11:30:30 mysql-honeypotd[1]: New connection from 100.99.178.56:54312 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:30.727356548Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:54312 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:30.737533316Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54312
+2025-12-30T11:30:30.746282426Z 2025-12-30 11:30:30 mysql-honeypotd[1]: New connection from 100.99.178.56:54316 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:30.748012138Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:54316 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:30.758479665Z 2025-12-30 11:30:30 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54316
+2025-12-30T11:30:31.988683976Z 2025-12-30 11:30:31 mysql-honeypotd[1]: New connection from 100.99.178.56:54326 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:31.990544436Z 2025-12-30 11:30:31 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:54326 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:32.000960737Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54326
+2025-12-30T11:30:32.010673890Z 2025-12-30 11:30:32 mysql-honeypotd[1]: New connection from 100.99.178.56:54332 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:32.012187699Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:54332 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:32.022573664Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54332
+2025-12-30T11:30:32.032551140Z 2025-12-30 11:30:32 mysql-honeypotd[1]: New connection from 100.99.178.56:54348 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:32.034506943Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:54348 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:32.044722720Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54348
+2025-12-30T11:30:32.053486019Z 2025-12-30 11:30:32 mysql-honeypotd[1]: New connection from 100.99.178.56:54358 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:32.055216743Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:54358 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:32.065539882Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54358
+2025-12-30T11:30:32.073928291Z 2025-12-30 11:30:32 mysql-honeypotd[1]: New connection from 100.99.178.56:54362 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:32.075513882Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:54362 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:32.085931664Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54362
+2025-12-30T11:30:32.094498964Z 2025-12-30 11:30:32 mysql-honeypotd[1]: New connection from 100.99.178.56:54372 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:32.097015013Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:54372 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:32.107313939Z 2025-12-30 11:30:32 mysql-honeypotd[1]: Closing connection for 100.99.178.56:54372
+2025-12-30T11:30:33.771399832Z 2025-12-30 11:30:33 mysql-honeypotd[1]: New connection from 100.99.178.56:44500 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:33.773246580Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44500 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:33.783572623Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44500
+2025-12-30T11:30:33.793392981Z 2025-12-30 11:30:33 mysql-honeypotd[1]: New connection from 100.99.178.56:44512 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:33.795638345Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44512 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:33.805973447Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44512
+2025-12-30T11:30:33.815654713Z 2025-12-30 11:30:33 mysql-honeypotd[1]: New connection from 100.99.178.56:44522 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:33.817706485Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44522 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:33.828019931Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44522
+2025-12-30T11:30:33.837942968Z 2025-12-30 11:30:33 mysql-honeypotd[1]: New connection from 100.99.178.56:44536 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:33.839647996Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44536 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:33.849973553Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44536
+2025-12-30T11:30:33.859561347Z 2025-12-30 11:30:33 mysql-honeypotd[1]: New connection from 100.99.178.56:44552 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:33.861634953Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44552 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:33.871920474Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44552
+2025-12-30T11:30:33.882559537Z 2025-12-30 11:30:33 mysql-honeypotd[1]: New connection from 100.99.178.56:44558 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:33.884539635Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44558 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:33.894831485Z 2025-12-30 11:30:33 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44558
+2025-12-30T11:30:35.118978873Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44574 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.120832779Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:44574 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.131043939Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44574
+2025-12-30T11:30:35.139837412Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44584 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.141681110Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:44584 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.151919569Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44584
+2025-12-30T11:30:35.161245141Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44598 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.163418525Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:44598 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.173868674Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44598
+2025-12-30T11:30:35.183288844Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44608 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.184599453Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:44608 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.195039965Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44608
+2025-12-30T11:30:35.203726884Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44610 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.205492018Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:44610 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.215721250Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44610
+2025-12-30T11:30:35.224681242Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44620 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.226588464Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:44620 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.236911961Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44620
+2025-12-30T11:30:35.513346420Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44636 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.514211872Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44638 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.515505150Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44640 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.515529655Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44636 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.515536243Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44638 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.518483574Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44642 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.518508203Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44636
+2025-12-30T11:30:35.518514442Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44638
+2025-12-30T11:30:35.518518972Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44640 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.518523414Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44640
+2025-12-30T11:30:35.519428090Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44642 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.519456559Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44642
+2025-12-30T11:30:35.521149755Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44686 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.522207466Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44688 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.523472208Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44698 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.523498001Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44688 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.524511542Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44700 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.524573984Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44686 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.526233613Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44698 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.527193274Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44700 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.534508205Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44688
+2025-12-30T11:30:35.534541606Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44686
+2025-12-30T11:30:35.536877597Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44698
+2025-12-30T11:30:35.538218468Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44700
+2025-12-30T11:30:35.541057101Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44714 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.542161278Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44714 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.543168603Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44726 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.543369538Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44714
+2025-12-30T11:30:35.544954261Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44734 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.545007932Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44726 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.545078946Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44726
+2025-12-30T11:30:35.547149503Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44744 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.547174619Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44734 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.548019874Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44748 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.548202872Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44734
+2025-12-30T11:30:35.551178286Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44760 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.551231873Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44748 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.551264814Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44744 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.553021102Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44760 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.554326520Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44770 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.555207713Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44770 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.555230312Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44770
+2025-12-30T11:30:35.559279510Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44780 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.561611378Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44748
+2025-12-30T11:30:35.561660681Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44744
+2025-12-30T11:30:35.561672553Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44780 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.564067917Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44760
+2025-12-30T11:30:35.567567460Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44792 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.568810000Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44792 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.568860773Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44792
+2025-12-30T11:30:35.572395513Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44780
+2025-12-30T11:30:35.573312887Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44808 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.575629341Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44808 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.578065420Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44814 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.579236807Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44814 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.579258450Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44814
+2025-12-30T11:30:35.583159326Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44820 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.585797303Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44808
+2025-12-30T11:30:35.585844906Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44820 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.591345996Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44836 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.592385923Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44846 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.592525958Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44836 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.592536418Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44836
+2025-12-30T11:30:35.593720259Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44846 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.593755230Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44846
+2025-12-30T11:30:35.596161327Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44820
+2025-12-30T11:30:35.597006720Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44850 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.598113057Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44866 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.599606164Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44866 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.600369739Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:44850 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.602161572Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44870 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.603176463Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44870 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.603204416Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44870
+2025-12-30T11:30:35.607012355Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44876 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.609317544Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44876 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.610558947Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44866
+2025-12-30T11:30:35.610598960Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44850
+2025-12-30T11:30:35.615972098Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44878 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.618094874Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44880 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.618123738Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44878 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.618167398Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44878
+2025-12-30T11:30:35.619533565Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44880 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.619631782Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44876
+2025-12-30T11:30:35.619644751Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44880
+2025-12-30T11:30:35.622042932Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44882 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.624045616Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44898 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.624510523Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44882 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.626504657Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44898 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.627529388Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44904 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.628704246Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44904 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.628735458Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44904
+2025-12-30T11:30:35.632337526Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44914 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.634687991Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44882
+2025-12-30T11:30:35.634733579Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44914 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.637033719Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44898
+2025-12-30T11:30:35.639831688Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44928 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.640965469Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44928 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.641020510Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44928
+2025-12-30T11:30:35.644821147Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44940 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.644862064Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44914
+2025-12-30T11:30:35.647567020Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44940 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.650093778Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44944 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.650992901Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44944 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.651469450Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44944
+2025-12-30T11:30:35.654963652Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44948 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.657556799Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44948 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.657630930Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44940
+2025-12-30T11:30:35.663005876Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44960 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.664278720Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44958 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.664354760Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44960 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.664483244Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44960
+2025-12-30T11:30:35.666228837Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:44958 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.666280526Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44958
+2025-12-30T11:30:35.667869333Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44948
+2025-12-30T11:30:35.669354447Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44980 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.670502998Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:44994 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.672299077Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44980 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.673220576Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:44994 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.674148718Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45006 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.675168871Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45006 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.675198624Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45006
+2025-12-30T11:30:35.678782878Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45008 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.680577900Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45008 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.682939629Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44980
+2025-12-30T11:30:35.684360389Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:44994
+2025-12-30T11:30:35.687764478Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45022 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.689780312Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45022 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.689813437Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45022
+2025-12-30T11:30:35.690966303Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45038 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.691344739Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45008
+2025-12-30T11:30:35.692123803Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45038 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.692146065Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45038
+2025-12-30T11:30:35.693360358Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45052 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.696368373Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45066 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.696392028Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45052 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.697686942Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45066 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.701143043Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45072 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.702188576Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45072 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.702218986Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45072
+2025-12-30T11:30:35.705810692Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45074 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.707219379Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45052
+2025-12-30T11:30:35.708655252Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45066
+2025-12-30T11:30:35.708681655Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45074 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.712767433Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45078 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.714009150Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45084 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.714036452Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45078 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.714059031Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45078
+2025-12-30T11:30:35.716324421Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45084 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.716354770Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45084
+2025-12-30T11:30:35.718616283Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45092 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.718996183Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45074
+2025-12-30T11:30:35.720171669Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45094 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.721435533Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45092 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.723132343Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45094 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.724996638Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45100 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.725867064Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45100 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.726206806Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45100
+2025-12-30T11:30:35.729799136Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45116 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.732845042Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45092
+2025-12-30T11:30:35.733491165Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45094
+2025-12-30T11:30:35.733512352Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45116 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.738221647Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45120 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.740137867Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45122 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.740162159Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45120 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.740205503Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45120
+2025-12-30T11:30:35.742030282Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45122 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.742088470Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45122
+2025-12-30T11:30:35.744687809Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45138 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.745806496Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45116
+2025-12-30T11:30:35.746688295Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45154 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.748038994Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45138 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.750152920Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45158 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.750211667Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45154 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.751868915Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45158 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.751917302Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45158
+2025-12-30T11:30:35.755100258Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45170 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.757719371Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45170 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.758954117Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45138
+2025-12-30T11:30:35.761309445Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45154
+2025-12-30T11:30:35.764357533Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45178 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.765681487Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45178 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.765730303Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45178
+2025-12-30T11:30:35.768567891Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45170
+2025-12-30T11:30:35.769746211Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45184 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.771867901Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45184 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.775907857Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45200 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.776896043Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45200 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.776955682Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45200
+2025-12-30T11:30:35.780730556Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45214 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.783056210Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45184
+2025-12-30T11:30:35.783083496Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45214 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.788437647Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45226 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.790146504Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45236 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.790198218Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45226 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.790209939Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45226
+2025-12-30T11:30:35.791591875Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45236 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.791620255Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45236
+2025-12-30T11:30:35.794577381Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45240 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.794626330Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45214
+2025-12-30T11:30:35.795549443Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45250 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.796727928Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45240 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.796781768Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45250 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.798956533Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45254 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.799796165Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45254 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.800212569Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45254
+2025-12-30T11:30:35.803641180Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45260 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.806210078Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45260 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.807520850Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45240
+2025-12-30T11:30:35.807562837Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45250
+2025-12-30T11:30:35.813687109Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45264 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.814681940Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45268 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.815682099Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45264 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.815706856Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45268 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.815972744Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45264
+2025-12-30T11:30:35.816354513Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45268
+2025-12-30T11:30:35.816755132Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45260
+2025-12-30T11:30:35.819550828Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45276 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.820392264Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45278 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.823531799Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45276 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.824076156Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45278 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.825375666Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45284 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.826353655Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45284 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.826815950Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45284
+2025-12-30T11:30:35.830137559Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45290 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.832510312Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45290 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.833704753Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45276
+2025-12-30T11:30:35.833723200Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45278
+2025-12-30T11:30:35.838983948Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45292 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.841557388Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45300 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.841608327Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45292 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.841625110Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45292
+2025-12-30T11:30:35.843006709Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45290
+2025-12-30T11:30:35.843047264Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45300 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.843052930Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45300
+2025-12-30T11:30:35.846125986Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45310 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.846990057Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45320 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.848375176Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45310 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.849550965Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45320 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.851309198Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45330 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.852721252Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45330 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.852806715Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45330
+2025-12-30T11:30:35.859135868Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45310
+2025-12-30T11:30:35.860997789Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45320
+2025-12-30T11:30:35.867197604Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45340 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.868556349Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45356 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.870150172Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45362 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.870896946Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45340 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.870934180Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45356 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.872252447Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45356
+2025-12-30T11:30:35.872278928Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45362 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.872287078Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45362
+2025-12-30T11:30:35.875502417Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45368 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.882842619Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45376 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.882874716Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45368 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.882895465Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45388 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.882902321Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45340
+2025-12-30T11:30:35.884848391Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:45388 connecting to 172.18.0.3:3306
+2025-12-30T11:30:35.884879159Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45376 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.884885928Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45388
+2025-12-30T11:30:35.888677848Z 2025-12-30 11:30:35 mysql-honeypotd[1]: New connection from 100.99.178.56:45398 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:35.890284027Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45368
+2025-12-30T11:30:35.891979139Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:45398 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:35.895275248Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45376
+2025-12-30T11:30:35.902584089Z 2025-12-30 11:30:35 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45398
+2025-12-30T11:30:36.906496407Z 2025-12-30 11:30:36 mysql-honeypotd[1]: New connection from 100.99.178.56:45412 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:36.908050915Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:45412 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:36.918355765Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45412
+2025-12-30T11:30:36.927761735Z 2025-12-30 11:30:36 mysql-honeypotd[1]: New connection from 100.99.178.56:45422 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:36.929157340Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:45422 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:36.939645915Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45422
+2025-12-30T11:30:36.949158857Z 2025-12-30 11:30:36 mysql-honeypotd[1]: New connection from 100.99.178.56:45428 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:36.950810975Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:45428 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:36.961304882Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45428
+2025-12-30T11:30:36.971357274Z 2025-12-30 11:30:36 mysql-honeypotd[1]: New connection from 100.99.178.56:45436 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:36.972487573Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:45436 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:36.982979295Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45436
+2025-12-30T11:30:36.991162588Z 2025-12-30 11:30:36 mysql-honeypotd[1]: New connection from 100.99.178.56:45440 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:36.993376495Z 2025-12-30 11:30:36 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:45440 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:37.003587888Z 2025-12-30 11:30:37 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45440
+2025-12-30T11:30:37.012368909Z 2025-12-30 11:30:37 mysql-honeypotd[1]: New connection from 100.99.178.56:45452 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:37.014593705Z 2025-12-30 11:30:37 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:45452 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:37.025006263Z 2025-12-30 11:30:37 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45452
+2025-12-30T11:30:38.921024406Z 2025-12-30 11:30:38 mysql-honeypotd[1]: New connection from 100.99.178.56:45468 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:38.922659991Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45468 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:38.933358821Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45468
+2025-12-30T11:30:38.941728210Z 2025-12-30 11:30:38 mysql-honeypotd[1]: New connection from 100.99.178.56:45470 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:38.943413451Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45470 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:38.953934838Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45470
+2025-12-30T11:30:38.963472429Z 2025-12-30 11:30:38 mysql-honeypotd[1]: New connection from 100.99.178.56:45486 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:38.965221481Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45486 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:38.975565416Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45486
+2025-12-30T11:30:38.984665772Z 2025-12-30 11:30:38 mysql-honeypotd[1]: New connection from 100.99.178.56:45492 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:38.986349955Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45492 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:38.996662347Z 2025-12-30 11:30:38 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45492
+2025-12-30T11:30:39.005084805Z 2025-12-30 11:30:39 mysql-honeypotd[1]: New connection from 100.99.178.56:45506 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:39.006664566Z 2025-12-30 11:30:39 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45506 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:39.017072579Z 2025-12-30 11:30:39 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45506
+2025-12-30T11:30:39.025646820Z 2025-12-30 11:30:39 mysql-honeypotd[1]: New connection from 100.99.178.56:45522 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:39.027655713Z 2025-12-30 11:30:39 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:45522 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:39.037908615Z 2025-12-30 11:30:39 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45522
+2025-12-30T11:30:40.035985115Z 2025-12-30 11:30:40 mysql-honeypotd[1]: New connection from 100.99.178.56:45536 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:40.038067998Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:45536 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:40.048397613Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45536
+2025-12-30T11:30:40.058922234Z 2025-12-30 11:30:40 mysql-honeypotd[1]: New connection from 100.99.178.56:45548 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:40.060757844Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:45548 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:40.071049191Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45548
+2025-12-30T11:30:40.079327156Z 2025-12-30 11:30:40 mysql-honeypotd[1]: New connection from 100.99.178.56:45556 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:40.081052685Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:45556 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:40.091454294Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45556
+2025-12-30T11:30:40.100553891Z 2025-12-30 11:30:40 mysql-honeypotd[1]: New connection from 100.99.178.56:45572 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:40.102365961Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:45572 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:40.112869262Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45572
+2025-12-30T11:30:40.122225894Z 2025-12-30 11:30:40 mysql-honeypotd[1]: New connection from 100.99.178.56:45586 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:40.124275346Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:45586 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:40.134719783Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45586
+2025-12-30T11:30:40.145540282Z 2025-12-30 11:30:40 mysql-honeypotd[1]: New connection from 100.99.178.56:45590 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:40.147383975Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:45590 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:40.157905725Z 2025-12-30 11:30:40 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45590
+2025-12-30T11:30:42.050322134Z 2025-12-30 11:30:42 mysql-honeypotd[1]: New connection from 100.99.178.56:45596 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:42.052007386Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45596 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:42.062332506Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45596
+2025-12-30T11:30:42.071295718Z 2025-12-30 11:30:42 mysql-honeypotd[1]: New connection from 100.99.178.56:45612 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:42.072905746Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45612 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:42.083268075Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45612
+2025-12-30T11:30:42.091668971Z 2025-12-30 11:30:42 mysql-honeypotd[1]: New connection from 100.99.178.56:45614 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:42.093195534Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45614 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:42.103571062Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45614
+2025-12-30T11:30:42.111666789Z 2025-12-30 11:30:42 mysql-honeypotd[1]: New connection from 100.99.178.56:45620 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:42.113050579Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45620 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:42.123320788Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45620
+2025-12-30T11:30:42.131660438Z 2025-12-30 11:30:42 mysql-honeypotd[1]: New connection from 100.99.178.56:45630 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:42.133292114Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45630 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:42.143798147Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45630
+2025-12-30T11:30:42.151857772Z 2025-12-30 11:30:42 mysql-honeypotd[1]: New connection from 100.99.178.56:45640 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:42.153526285Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:45640 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:42.163967379Z 2025-12-30 11:30:42 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45640
+2025-12-30T11:30:43.169722689Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:45646 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.171592778Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:45646 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.182065058Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45646
+2025-12-30T11:30:43.190911186Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:45650 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.192614493Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:45650 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.203673345Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45650
+2025-12-30T11:30:43.212412531Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:45658 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.214549936Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:45658 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.225114371Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45658
+2025-12-30T11:30:43.233797918Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:45674 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.235528188Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:45674 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.245860817Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45674
+2025-12-30T11:30:43.254607601Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:45682 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.256383648Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:45682 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.266909141Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45682
+2025-12-30T11:30:43.276162501Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:45694 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.277650994Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:45694 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.288763079Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:45694
+2025-12-30T11:30:43.522094536Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52562 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.523857352Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52568 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.524305710Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52562 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.525467536Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52580 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.526624695Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52568 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.526730960Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52562
+2025-12-30T11:30:43.528228868Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52582 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.528719393Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52580 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.529304755Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52568
+2025-12-30T11:30:43.530540822Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52598 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.531173167Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52582 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.531785633Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52580
+2025-12-30T11:30:43.532840744Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52606 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.533269433Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52598 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.533412396Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52582
+2025-12-30T11:30:43.534708884Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52614 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.535816984Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52630 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.535854105Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52606 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.537337261Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52614 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.537978543Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52630 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.543242005Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52598
+2025-12-30T11:30:43.546548754Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52606
+2025-12-30T11:30:43.547817688Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52614
+2025-12-30T11:30:43.549375234Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52630
+2025-12-30T11:30:43.551296977Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52640 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.552562758Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52640 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.553552546Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52656 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.553938170Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52640
+2025-12-30T11:30:43.555016376Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52656 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.556111559Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52662 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.556178157Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52656
+2025-12-30T11:30:43.557044830Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52666 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.557775614Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52662 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.557800125Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52662
+2025-12-30T11:30:43.559648940Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52674 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.559672875Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52666 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.561210992Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52688 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.561918218Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52674 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.563535704Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52688 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.565259295Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52700 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.566318114Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52700 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.566415448Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52700
+2025-12-30T11:30:43.569444411Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52706 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.570986134Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52666
+2025-12-30T11:30:43.571729209Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52706 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.572961873Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52674
+2025-12-30T11:30:43.574337691Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52688
+2025-12-30T11:30:43.578938579Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52716 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.579893551Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52712 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.579914239Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52716 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.580264683Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52716
+2025-12-30T11:30:43.580585827Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52712 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.580688832Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52712
+2025-12-30T11:30:43.582104380Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52706
+2025-12-30T11:30:43.583733429Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52730 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.584516618Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52742 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.586080172Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52730 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.586163630Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52742 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.589666756Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52752 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.590432425Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52752 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.590469773Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52752
+2025-12-30T11:30:43.594185401Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52764 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.596459708Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52730
+2025-12-30T11:30:43.596487430Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52742
+2025-12-30T11:30:43.596998675Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:52764 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.600814971Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52770 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.601628654Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52776 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.601656007Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52770 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.601756413Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52770
+2025-12-30T11:30:43.602805664Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52776 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.602843936Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52776
+2025-12-30T11:30:43.605831303Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52792 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.606766570Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52806 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.606786431Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52764
+2025-12-30T11:30:43.606859707Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52792 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.609161186Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52806 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.611784816Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52814 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.612743128Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52814 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.612767355Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52814
+2025-12-30T11:30:43.615974368Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52818 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.617309868Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52792
+2025-12-30T11:30:43.618336935Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52818 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.619718587Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52806
+2025-12-30T11:30:43.621640954Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52824 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.622569864Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52824 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.622594900Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52824
+2025-12-30T11:30:43.626102030Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52834 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.628135208Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52834 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.629653565Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52818
+2025-12-30T11:30:43.631764775Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52844 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.633031879Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52844 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.633177026Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52844
+2025-12-30T11:30:43.634940631Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52848 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.636101649Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52848 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.636122759Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52848
+2025-12-30T11:30:43.637278231Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52858 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.638521567Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52834
+2025-12-30T11:30:43.640021958Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52860 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.640042105Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52858 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.642197821Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52860 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.644577983Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52872 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.645405995Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52872 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.645547906Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52872
+2025-12-30T11:30:43.648618871Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52882 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.650705712Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52858
+2025-12-30T11:30:43.650728483Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52882 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.653051459Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52860
+2025-12-30T11:30:43.655169414Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52896 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.655962756Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52896 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.656056922Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52896
+2025-12-30T11:30:43.659503556Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52904 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.661496248Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52882
+2025-12-30T11:30:43.661514025Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52904 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.665105483Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52912 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.665840957Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52912 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.665859151Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52912
+2025-12-30T11:30:43.669274570Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52920 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.671197017Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52920 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.672338225Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52904
+2025-12-30T11:30:43.677000799Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52928 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.678200149Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52938 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.678709757Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52928 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.679145237Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52928
+2025-12-30T11:30:43.679703687Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52938 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.680226138Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52938
+2025-12-30T11:30:43.681634586Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52942 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.682019284Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52920
+2025-12-30T11:30:43.683856804Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52950 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.684440176Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52942 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.686312181Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:52950 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.687655472Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52956 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.688396172Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52956 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.688712236Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52956
+2025-12-30T11:30:43.691763009Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52966 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.692608844Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:52966 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.695053627Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52942
+2025-12-30T11:30:43.697350667Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52950
+2025-12-30T11:30:43.698837203Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52980 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.699920611Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:52980 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.699940550Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52980
+2025-12-30T11:30:43.703318964Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:52992 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.703339477Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52966
+2025-12-30T11:30:43.705992765Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:52992 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.709214980Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53000 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.709891811Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53000 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.709949514Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53000
+2025-12-30T11:30:43.713479225Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53004 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.715530088Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53004 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.716742247Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:52992
+2025-12-30T11:30:43.722102337Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53014 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.723419060Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53026 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.723446451Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53014 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.723453203Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53014
+2025-12-30T11:30:43.724600207Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53026 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.724884833Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53026
+2025-12-30T11:30:43.726085732Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53004
+2025-12-30T11:30:43.727439300Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53040 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.728443487Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53046 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.729273741Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53040 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.730867070Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53046 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.732309235Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53058 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.733301529Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53058 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.733528040Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53058
+2025-12-30T11:30:43.736828063Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53066 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.738665125Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53066 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.739929536Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53040
+2025-12-30T11:30:43.741163985Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53046
+2025-12-30T11:30:43.744217409Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53076 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.745327345Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53076 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.745372237Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53076
+2025-12-30T11:30:43.746850235Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53084 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.747521163Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53084 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.747546501Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53084
+2025-12-30T11:30:43.748998672Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53096 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.749047082Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53066
+2025-12-30T11:30:43.751039583Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53108 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.751619132Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53096 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.753162671Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53108 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.756801808Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53110 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.757768756Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53110 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.757808490Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53110
+2025-12-30T11:30:43.760879665Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53118 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.762115064Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53096
+2025-12-30T11:30:43.763119341Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53118 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.764452254Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53108
+2025-12-30T11:30:43.766492372Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53128 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.767606076Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53128 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.767626145Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53128
+2025-12-30T11:30:43.770889060Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53138 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.773041053Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53138 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.773130661Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53118
+2025-12-30T11:30:43.776447161Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53152 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.777316869Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53152 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.777337509Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53152
+2025-12-30T11:30:43.780639025Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53162 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.782587126Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53162 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.783817046Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53138
+2025-12-30T11:30:43.788061526Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53164 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.788998019Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53176 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.789125256Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53164 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.789342265Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53164
+2025-12-30T11:30:43.790220995Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53176 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.790245267Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53176
+2025-12-30T11:30:43.792970960Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53178 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.793045101Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53162
+2025-12-30T11:30:43.793844290Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53182 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.794535546Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53178 to 172.18.0.3:3306 (using password: NO; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.795791692Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53182 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.798502388Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53184 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.799300108Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53184 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.799378373Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53184
+2025-12-30T11:30:43.802288483Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53196 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.803970337Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53196 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.805343544Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53178
+2025-12-30T11:30:43.806585045Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53182
+2025-12-30T11:30:43.809532049Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53202 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.810462644Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53202 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.810515135Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53202
+2025-12-30T11:30:43.811671969Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53206 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.812464453Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53206 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.812524112Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53206
+2025-12-30T11:30:43.814697212Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53212 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.815176123Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53196
+2025-12-30T11:30:43.816722487Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53226 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.817349728Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53212 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.818686352Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53226 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.821992166Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53236 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.822971394Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53236 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.823014599Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53236
+2025-12-30T11:30:43.826058203Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53238 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.828439292Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53212
+2025-12-30T11:30:43.828489290Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53238 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.829539853Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53226
+2025-12-30T11:30:43.832697009Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53244 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.833458914Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53244 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.833550468Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53244
+2025-12-30T11:30:43.836974059Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53248 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.839129705Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53238
+2025-12-30T11:30:43.839151222Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53248 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.844806923Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53256 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.844883139Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53256 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.844897122Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53256
+2025-12-30T11:30:43.847579368Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53266 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.849680162Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53248
+2025-12-30T11:30:43.849696242Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53266 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.854218973Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53272 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.854988385Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53278 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.855894371Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53272 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.855938743Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53272
+2025-12-30T11:30:43.856342694Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53278 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.856376655Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53278
+2025-12-30T11:30:43.858939351Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53282 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.859804988Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53292 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.859936528Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53266
+2025-12-30T11:30:43.860991410Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53282 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.862301304Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53292 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.864799895Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53300 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.865526799Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Packets are out of order or invalid from 100.99.178.56:53300 connecting to 172.18.0.3:3306
+2025-12-30T11:30:43.865583479Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53300
+2025-12-30T11:30:43.868480922Z 2025-12-30 11:30:43 mysql-honeypotd[1]: New connection from 100.99.178.56:53304 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:43.870122798Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Access denied for user 'jawad' from 100.99.178.56:53304 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:43.871427737Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53282
+2025-12-30T11:30:43.872801184Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53292
+2025-12-30T11:30:43.881041897Z 2025-12-30 11:30:43 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53304
+2025-12-30T11:30:45.176651348Z 2025-12-30 11:30:45 mysql-honeypotd[1]: New connection from 100.99.178.56:53306 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:45.178061034Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53306 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:45.188545535Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53306
+2025-12-30T11:30:45.198159880Z 2025-12-30 11:30:45 mysql-honeypotd[1]: New connection from 100.99.178.56:53310 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:45.199937876Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53310 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:45.210446270Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53310
+2025-12-30T11:30:45.218875928Z 2025-12-30 11:30:45 mysql-honeypotd[1]: New connection from 100.99.178.56:53314 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:45.220696267Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53314 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:45.230847916Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53314
+2025-12-30T11:30:45.241704358Z 2025-12-30 11:30:45 mysql-honeypotd[1]: New connection from 100.99.178.56:53322 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:45.243762510Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53322 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:45.254571829Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53322
+2025-12-30T11:30:45.265932209Z 2025-12-30 11:30:45 mysql-honeypotd[1]: New connection from 100.99.178.56:53338 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:45.267645334Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53338 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:45.278093180Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53338
+2025-12-30T11:30:45.287386166Z 2025-12-30 11:30:45 mysql-honeypotd[1]: New connection from 100.99.178.56:53350 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:45.290101022Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53350 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:45.300283585Z 2025-12-30 11:30:45 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53350
+2025-12-30T11:30:46.896823670Z 2025-12-30 11:30:46 mysql-honeypotd[1]: New connection from 100.99.178.56:53354 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:46.898570535Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53354 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:46.908866664Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53354
+2025-12-30T11:30:46.917896165Z 2025-12-30 11:30:46 mysql-honeypotd[1]: New connection from 100.99.178.56:53368 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:46.920315912Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53368 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:46.930460674Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53368
+2025-12-30T11:30:46.940225730Z 2025-12-30 11:30:46 mysql-honeypotd[1]: New connection from 100.99.178.56:53376 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:46.942897004Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53376 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:46.953578186Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53376
+2025-12-30T11:30:46.965318498Z 2025-12-30 11:30:46 mysql-honeypotd[1]: New connection from 100.99.178.56:53380 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:46.967090141Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53380 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:46.977735652Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53380
+2025-12-30T11:30:46.985835138Z 2025-12-30 11:30:46 mysql-honeypotd[1]: New connection from 100.99.178.56:53392 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:46.988439521Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53392 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:46.998767023Z 2025-12-30 11:30:46 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53392
+2025-12-30T11:30:47.008949554Z 2025-12-30 11:30:47 mysql-honeypotd[1]: New connection from 100.99.178.56:53398 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:47.010443006Z 2025-12-30 11:30:47 mysql-honeypotd[1]: Access denied for user 'root' from 100.99.178.56:53398 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:47.021486846Z 2025-12-30 11:30:47 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53398
+2025-12-30T11:30:48.311421158Z 2025-12-30 11:30:48 mysql-honeypotd[1]: New connection from 100.99.178.56:53404 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:48.313167771Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:53404 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:48.323716611Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53404
+2025-12-30T11:30:48.332122805Z 2025-12-30 11:30:48 mysql-honeypotd[1]: New connection from 100.99.178.56:53406 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:48.333825564Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:53406 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:48.344358694Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53406
+2025-12-30T11:30:48.352989338Z 2025-12-30 11:30:48 mysql-honeypotd[1]: New connection from 100.99.178.56:53410 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:48.355103021Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:53410 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:48.365596354Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53410
+2025-12-30T11:30:48.374868665Z 2025-12-30 11:30:48 mysql-honeypotd[1]: New connection from 100.99.178.56:53418 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:48.376670884Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:53418 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:48.387040152Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53418
+2025-12-30T11:30:48.395548163Z 2025-12-30 11:30:48 mysql-honeypotd[1]: New connection from 100.99.178.56:53426 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:48.397235763Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:53426 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:48.407830753Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53426
+2025-12-30T11:30:48.416097964Z 2025-12-30 11:30:48 mysql-honeypotd[1]: New connection from 100.99.178.56:53440 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:48.417666845Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:53440 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:48.428044468Z 2025-12-30 11:30:48 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53440
+2025-12-30T11:30:50.033497251Z 2025-12-30 11:30:50 mysql-honeypotd[1]: New connection from 100.99.178.56:53450 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:50.034774005Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:53450 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:50.045199325Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53450
+2025-12-30T11:30:50.054689274Z 2025-12-30 11:30:50 mysql-honeypotd[1]: New connection from 100.99.178.56:53460 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:50.056647558Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:53460 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:50.067098428Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53460
+2025-12-30T11:30:50.075606584Z 2025-12-30 11:30:50 mysql-honeypotd[1]: New connection from 100.99.178.56:53468 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:50.077249437Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:53468 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:50.087747140Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53468
+2025-12-30T11:30:50.096546412Z 2025-12-30 11:30:50 mysql-honeypotd[1]: New connection from 100.99.178.56:53472 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:50.098086692Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:53472 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:50.108440907Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53472
+2025-12-30T11:30:50.117204204Z 2025-12-30 11:30:50 mysql-honeypotd[1]: New connection from 100.99.178.56:53480 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:50.119026665Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:53480 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:50.129459042Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53480
+2025-12-30T11:30:50.138380591Z 2025-12-30 11:30:50 mysql-honeypotd[1]: New connection from 100.99.178.56:53494 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:50.139901304Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Access denied for user 'admin' from 100.99.178.56:53494 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:50.150458619Z 2025-12-30 11:30:50 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53494
+2025-12-30T11:30:51.438684649Z 2025-12-30 11:30:51 mysql-honeypotd[1]: New connection from 100.99.178.56:53504 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:51.440206943Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:53504 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:51.450618151Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53504
+2025-12-30T11:30:51.460457064Z 2025-12-30 11:30:51 mysql-honeypotd[1]: New connection from 100.99.178.56:53518 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:51.462248790Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:53518 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:51.472581498Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53518
+2025-12-30T11:30:51.480925204Z 2025-12-30 11:30:51 mysql-honeypotd[1]: New connection from 100.99.178.56:53534 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:51.482926029Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:53534 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:51.493325470Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53534
+2025-12-30T11:30:51.503607025Z 2025-12-30 11:30:51 mysql-honeypotd[1]: New connection from 100.99.178.56:53542 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:51.504915955Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:53542 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:51.515130733Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53542
+2025-12-30T11:30:51.524103850Z 2025-12-30 11:30:51 mysql-honeypotd[1]: New connection from 100.99.178.56:53546 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:51.525814887Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:53546 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:51.536099416Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53546
+2025-12-30T11:30:51.544550713Z 2025-12-30 11:30:51 mysql-honeypotd[1]: New connection from 100.99.178.56:53552 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:51.545686055Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:53552 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:51.555988480Z 2025-12-30 11:30:51 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53552
+2025-12-30T11:30:53.163560469Z 2025-12-30 11:30:53 mysql-honeypotd[1]: New connection from 100.99.178.56:53558 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:53.165179598Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53558 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:53.175695090Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53558
+2025-12-30T11:30:53.184451494Z 2025-12-30 11:30:53 mysql-honeypotd[1]: New connection from 100.99.178.56:53574 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:53.186733184Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53574 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:53.196905730Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53574
+2025-12-30T11:30:53.207192037Z 2025-12-30 11:30:53 mysql-honeypotd[1]: New connection from 100.99.178.56:53580 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:53.208593137Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53580 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:53.218938357Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53580
+2025-12-30T11:30:53.229369569Z 2025-12-30 11:30:53 mysql-honeypotd[1]: New connection from 100.99.178.56:53596 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:53.230703206Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53596 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:53.241063100Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53596
+2025-12-30T11:30:53.249582806Z 2025-12-30 11:30:53 mysql-honeypotd[1]: New connection from 100.99.178.56:53606 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:53.251447812Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53606 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:53.261991577Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53606
+2025-12-30T11:30:53.270492403Z 2025-12-30 11:30:53 mysql-honeypotd[1]: New connection from 100.99.178.56:53608 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:53.272572386Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Access denied for user 'mysql' from 100.99.178.56:53608 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:53.283096151Z 2025-12-30 11:30:53 mysql-honeypotd[1]: Closing connection for 100.99.178.56:53608
+2025-12-30T11:30:56.303525981Z 2025-12-30 11:30:56 mysql-honeypotd[1]: New connection from 100.99.178.56:47512 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:56.306702985Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:47512 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:56.317018517Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47512
+2025-12-30T11:30:56.328907644Z 2025-12-30 11:30:56 mysql-honeypotd[1]: New connection from 100.99.178.56:47528 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:56.330828224Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:47528 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:56.341092945Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47528
+2025-12-30T11:30:56.350951064Z 2025-12-30 11:30:56 mysql-honeypotd[1]: New connection from 100.99.178.56:47544 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:56.352828864Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:47544 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:56.363078600Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47544
+2025-12-30T11:30:56.371395987Z 2025-12-30 11:30:56 mysql-honeypotd[1]: New connection from 100.99.178.56:47550 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:56.372832218Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:47550 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:56.383199135Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47550
+2025-12-30T11:30:56.391562707Z 2025-12-30 11:30:56 mysql-honeypotd[1]: New connection from 100.99.178.56:47556 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:56.392928478Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:47556 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:56.403210173Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47556
+2025-12-30T11:30:56.412586466Z 2025-12-30 11:30:56 mysql-honeypotd[1]: New connection from 100.99.178.56:47568 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:56.414036791Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Access denied for user 'user' from 100.99.178.56:47568 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:56.424439882Z 2025-12-30 11:30:56 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47568
+2025-12-30T11:30:59.433557226Z 2025-12-30 11:30:59 mysql-honeypotd[1]: New connection from 100.99.178.56:47572 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:59.435470122Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:47572 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:59.445888073Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47572
+2025-12-30T11:30:59.456197858Z 2025-12-30 11:30:59 mysql-honeypotd[1]: New connection from 100.99.178.56:47580 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:59.458122992Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:47580 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:59.468645021Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47580
+2025-12-30T11:30:59.479406334Z 2025-12-30 11:30:59 mysql-honeypotd[1]: New connection from 100.99.178.56:47582 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:59.481157902Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:47582 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:59.491467448Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47582
+2025-12-30T11:30:59.500315934Z 2025-12-30 11:30:59 mysql-honeypotd[1]: New connection from 100.99.178.56:47594 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:59.501743200Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:47594 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:59.511934749Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47594
+2025-12-30T11:30:59.522785536Z 2025-12-30 11:30:59 mysql-honeypotd[1]: New connection from 100.99.178.56:47600 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:59.525992566Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:47600 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:59.536345290Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47600
+2025-12-30T11:30:59.549833713Z 2025-12-30 11:30:59 mysql-honeypotd[1]: New connection from 100.99.178.56:47602 [box.tail116fbf.ts.net] to 172.18.0.3:3306
+2025-12-30T11:30:59.552747839Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Access denied for user 'test' from 100.99.178.56:47602 to 172.18.0.3:3306 (using password: YES; authentication plugin: mysql_native_password)
+2025-12-30T11:30:59.562981365Z 2025-12-30 11:30:59 mysql-honeypotd[1]: Closing connection for 100.99.178.56:47602
+2025-12-30T11:33:09.496684200Z 2025-12-30 11:33:09 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-30T18:00:27.331766659Z 2025-12-30 18:00:27 mysql-honeypotd[1]: Got signal 15, shutting down
+2025-12-30T19:44:24.066599653Z 2025-12-30 19:44:24 mysql-honeypotd[1]: Got signal 15, shutting down

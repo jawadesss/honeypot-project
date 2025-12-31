@@ -38,7 +38,7 @@ scrape_configs:
           job: ftp
           service: ftp
           host: vm1
-          __path__: /home/cstc/honeypot-project/ftp_h/logs/pure-ftpd/pureftpd.log
+          __path__: /home/cstc/honeypot-project/ftp_h/logs/syslog
 
 
   # 🗄 MySQL Honeypot
